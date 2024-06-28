@@ -8,7 +8,7 @@
 - **Interview Resources:** Offers top CS core interview questions and premium resources for interview preparation.
 
 ## Explore the Hosted Version
-For a live demo of the application, visit: InterviewPrep Live
+For a live demo of the application, visit: [InterviewPrep Live](https://interview-prep-front.vercel.app/)
 
 ## Technologies Used
 
