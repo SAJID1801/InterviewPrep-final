@@ -7,6 +7,9 @@
 - **Personalized Practice Path:** Efficient DSA practice based on user skill assessments.
 - **Interview Resources:** Offers top CS core interview questions and premium resources for interview preparation.
 
+## Explore the Hosted Version
+For a live demo of the application, visit: InterviewPrep Live
+
 ## Technologies Used
 
 ### Frontend
